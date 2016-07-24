@@ -13,3 +13,4 @@ Series of python topic note for reuse.
 * [zipfile解压缩](basis/zip.md)
 * [logging模块](basis/logging.md)
 * [glob模块](basis/glob.md)
+* [资源索引](index.md)
