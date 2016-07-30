@@ -8,6 +8,7 @@ Series of python topic note for reuse.
 * [异常处理](basis/exception.md)
 * [编码处理](basis/coding.md)
 * [os模块实例详解](basis/os.md)
+* [Json模块实例详解](basis/json.md)
 * [re模块实例详解](basis/re.md)
 * [文件操作](basis/file.md)
 * [zipfile解压缩](basis/zip.md)
